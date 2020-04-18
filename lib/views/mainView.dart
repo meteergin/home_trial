@@ -23,7 +23,7 @@ class MainViewState extends State<MainView> {
       child: Text(
         "Welcome " + user.username,
         style: TextStyle(
-          fontSize: 70,
+          fontSize: 50,
           color: Colors.black38,
         ),
       ),
